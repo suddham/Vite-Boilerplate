@@ -12,8 +12,8 @@ Using:
 
 ### Getting Started 🚀
 ```sh
-npx degit suddham/papyrus papyrus
-cd papyrus
+npx degit suddham/Vite-Boilerplate vite-boilerplate
+cd vite-boilerplate
 ```
 
 npm:
