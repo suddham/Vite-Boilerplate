@@ -29,6 +29,6 @@
     "tailwindcss": "^2.2.7",
     "vite": "^2.4.4",
     "vite-plugin-compress": "^2.1.0",
-    "vite-plugin-compression": "^0.3.3"
+    "vite-plugin-compression": "^0.3.6"
   }
 }
